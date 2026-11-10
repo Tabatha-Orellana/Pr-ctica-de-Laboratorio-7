@@ -1,0 +1,2 @@
+# Pr-ctica-de-Laboratorio-7
+Pipeline ETL, Limpieza Condicionada y Arquitectura de Data Lake
